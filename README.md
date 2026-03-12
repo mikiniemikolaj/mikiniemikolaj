@@ -1,5 +1,5 @@
-## Hi there 👋
-# 💫 About Me:
+## Hi there, i'm Michał 👋
+
 Junior Fullstack Developer 🚀
 
 Building functional and scalable web applications from front to back.
