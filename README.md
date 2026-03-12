@@ -1,6 +1,10 @@
 ## Hi there 👋
 # 💫 About Me:
+Junior Fullstack Developer 🚀
 
+Building functional and scalable web applications from front to back.
+
+Always learning, always coding.
 
 
 # 💻 Tech Stack:
