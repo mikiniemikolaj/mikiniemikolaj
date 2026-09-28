@@ -1,10 +1,6 @@
 ## Hi there, i'm Michał 👋
 
-Junior Fullstack Developer 🚀
-
-Building functional and scalable web applications from front to back.
-
-Always learning, always coding.
+Trying to build functional and scalable web applications from front to back.
 
 
 # 💻 Tech Stack:
